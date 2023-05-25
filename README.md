@@ -36,4 +36,3 @@ php artisan migrate:rollback --path=/database/migrations/fileName.php
     - npm i
     - node(nodemon) server.js
 # laravel-api-test
-# laravel-api-test
